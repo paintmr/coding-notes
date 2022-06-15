@@ -1,29 +1,6 @@
-1 學成在線\Xuecheng-HTML-CSS
-
-（1）轮播图：
-① 自動播放
-② 鼠標覆上和離開：箭頭出現，消失；自動播放停止，開始
-③ 點擊左右箭頭和圓點，切換圖片
-
-（2）職業發展
-① 往下拉滾動條（banner到達頂部時），職業發展的position由absolute變成fixed。（banner到達頂部時），相反。
-② 鼠標hover職業發展，會出現菜單。鼠標離開職業發展，菜單消失。
-
-（3）返回頂部
-① 往下拉滾動條（精品推薦導航到達頂部時），返回頂部按鈕出現；反正則消失。
-② 點擊返回頂部按鈕，返回頂部
-
-（4）編程入門切換Tab
-
-2 品優購
-
-3 博學谷
-
-4 移動端
-1 流式佈局-京東
-2 flex布局-携程
-
-5 small projects
+small projects
 1-1 HTML CSS animation map.html
 1-4 HTML CSS 3D box burning over.html
 1-5 HTML CSS 3D Carousel.html
+2-3 淡入淡出調整透明度.html
+2-4 手風琴.html
